@@ -1,0 +1,23 @@
+{
+  "name": "cookieandsession23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.18.0",
+    "fs": "^0.0.1-security",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0"
+  }
+}

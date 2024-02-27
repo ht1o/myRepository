@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "password": "password123",
+      "blogs": [
+        {
+          "id": 101,
+          "title": "Blog d'Alice",
+          "content": "Bienvenue sur mon blog !"
+        },
+        {
+          "id": 102,
+          "title": "Voyages d'Alice",
+          "content": "Partage de mes aventures autour du monde."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bobley",
+      "password": "securePass",
+      "blogs": [
+        {
+          "id": 201,
+          "title": "Bob's Tech Blog",
+          "content": "Articles sur les dernières technologies."
+        },
+        {
+          "id": 202,
+          "title": "Bob's Cooking Corner",
+          "content": "Recettes et astuces culinaires."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "password": "mySecret",
+      "blogs": [
+        {
+          "id": 301,
+          "title": "Pensées de Charlie",
+          "content": "Réflexions profondes sur la vie."
+        },
+        {
+          "id": 302,
+          "title": "Charlie's Book Club",
+          "content": "Critiques de livres et recommandations."
+        }
+      ]
+    }
+  ]
+}
